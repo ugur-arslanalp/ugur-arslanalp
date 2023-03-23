@@ -1,16 +1,16 @@
-### Hi there 👋
+### Uğur Arslanalp - Frontend Developer 👋
 
-<!--
-**ugur-arslanalp/ugur-arslanalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Uğur. I' m a mathematical enginner with 6 years of experience on development of IBM products such as ODM(Operational Decison Manager) and BPM(Business Proccess MAnagement).I have decided to change my career path and become a Front-End Developer. I have successfully graduated 24 weeks Frontend Course of [Jagaad Academy](https://academy.jagaad.com/). I have had the opportunity to work on many subjects over the past 6 months including:
 
-Here are some ideas to get you started:
+* HTML
+* CSS
+* Javascript
+* Typescript
+* React
+* Next.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In this GitHub profile, you will find some of my projects that cover the topics during the course.
+* 💻 Currently looking for: Junior Frontend Developer position
+* 📫 You can reach me via: [LinkedIn](https://www.linkedin.com/in/ugur-arslanalp/) | [Email](mailto:ugurarslanalp@gmail.com)
+* 📍 Current Location: Amsterdam, Netherlands
+* 🌐 Available for: Fully Remote | On-site (Amsterdam)
