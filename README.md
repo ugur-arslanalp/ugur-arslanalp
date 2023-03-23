@@ -13,4 +13,4 @@ In this GitHub profile, you will find some of my projects that cover the topics 
 * 💻 Currently looking for: Junior Frontend Developer position
 * 📫 You can reach me via: [LinkedIn](https://www.linkedin.com/in/ugur-arslanalp/) | [Email](mailto:ugurarslanalp@gmail.com)
 * 📍 Current Location: Amsterdam, Netherlands
-* 🌐 Available for: Fully Remote | On-site (Amsterdam)
+* 🌐 Available for: Fully Remote | Hybrid (Netherlands) | On-site (Amsterdam)
