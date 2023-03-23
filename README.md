@@ -14,3 +14,9 @@ In this GitHub profile, you will find some of my projects that cover the topics 
 * 📫 You can reach me via: [LinkedIn](https://www.linkedin.com/in/ugur-arslanalp/) | [Email](mailto:ugurarslanalp@gmail.com)
 * 📍 Current Location: Amsterdam, Netherlands
 * 🌐 Available for: Fully Remote | Hybrid (Netherlands) | On-site (Amsterdam)
+
+### 📈 My GitHub Stats
+
+[![Ilkin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugur-arslanalp&count_private=true&show_icons=true&theme=dark)](https://github.com/ugur-arslanalp/github-readme-stats)
+
+Thank you for visiting my GitHub profile! I look forward to connecting with you.
