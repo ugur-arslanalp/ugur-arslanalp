@@ -7,7 +7,8 @@ Hi, I'm Uğur. I' m a mathematical enginner with 6 years of experience on develo
 * SASS
 * Javascript
 * Typescript
-* React, Reduc-Thunk
+* React
+* Redux, Redux-Thunk
 * Next.js
 * Docker
 
