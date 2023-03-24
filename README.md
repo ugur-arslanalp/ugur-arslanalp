@@ -4,10 +4,12 @@ Hi, I'm Uğur. I' m a mathematical enginner with 6 years of experience on develo
 
 * HTML
 * CSS
+* SASS
 * Javascript
 * Typescript
-* React
+* React, Reduc-Thunk
 * Next.js
+* Docker
 
 In this GitHub profile, you will find some of my projects that cover the topics during the course.
 * 💻 Currently looking for: Junior Frontend Developer position
