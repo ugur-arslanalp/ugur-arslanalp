@@ -1,6 +1,6 @@
 ### Buğra Uğur Arslanalp
 
-Hi, I'm Uğur. I' m a mathematical enginner with 6 years of experience on development of IBM products such as ODM (Operational Decison Manager) and BPM (Business Proccess Management) and Java. I have decided to change my career path and become a Front-End Developer. I have successfully graduated 24 weeks Frontend Course of [Jagaad Academy](https://academy.jagaad.com/). I have had the opportunity to work on many subjects over the past 6 months including:
+Hi, I'm Uğur. I' m a mathematical enginner with 6 years of experience on development of IBM products such as ODM (Operational Decison Manager) and BPM (Business Proccess Management) and Java. I have successfully graduated 24 weeks Frontend Course of [Jagaad Academy](https://academy.jagaad.com/). I have had the opportunity to work on many subjects over the past 6 months including:
 
 * HTML
 * CSS
